@@ -1,5 +1,5 @@
-# 💫 About Me:
-Welcome to my collection of repositories! 🌸<br>Sometimes useful, sometimes strange, but always made with enthusiasm.<br>I learn, experiment, and leave traces in the form of commits.
+# 🌸 About Me:
+Welcome to my collection of repositories! <br>Sometimes useful, sometimes strange, but always made with enthusiasm.<br>I learn, experiment, and leave traces in the form of commits.
 
 
 ## 🌐 Socials:
